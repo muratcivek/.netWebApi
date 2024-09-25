@@ -1,27 +1,36 @@
-Bu proje, modern yazılım mimarisi prensiplerini temel alan bir Web API uygulamasıdır. 
-**Onion Architecture** kullanılarak geliştirilmiştir, böylece katmanlar arasında net bir ayrım sağlanmış ve uygulamanın sürdürülebilirliği artırılmıştır. 
-Proje, hem geliştirme (dev) hem de üretim (prod) ortamları için ayrı ayar dosyaları ile yapılandırılmıştır.
+# 🌐 Modern Web API Uygulaması
 
-**Entity Framework Core** ile güçlü bir veri erişim katmanı oluşturulmuş; **migration** özellikleri sayesinde veritabanı şemasının kolayca yönetilmesi sağlanmıştır.
+Bu proje, **modern yazılım mimarisi** prensiplerini temel alan bir **Web API** uygulamasıdır. **Onion Architecture** kullanılarak geliştirilmiş olup katmanlar arasında net bir ayrım sağlanmış ve uygulamanın sürdürülebilirliği artırılmıştır.
 
-**Repository ve Unit of Work** desenleri kullanılarak, veri erişim katmanında kod tekrarının önüne geçilmiş ve test edilebilirlik artırılmıştır.
+## 🚀 Özellikler
 
-**CQRS (Command Query Responsibility Segregation)** mimarisi ile uygulama, veri güncellemeleri ve sorgulamalarını ayrı olarak yönetir, bu sayede performans ve ölçeklenebilirlik sağlanmıştır.
+### 🧑‍💻 Mimariler ve Desenler
 
-**MediatR** kütüphanesi ile uygulama içindeki iletişim ve veri akışı yönetimi kolaylaştırılmıştır.
+- **Onion Architecture**: Katmanlı yapı, daha sürdürülebilir ve test edilebilir bir mimari sağlar.
+- **CQRS (Command Query Responsibility Segregation)**: Veri güncellemeleri ve sorgulamalarını ayrı ayrı yöneterek performansı artırır.
+- **Repository ve Unit of Work Desenleri**: Veri erişiminde kod tekrarını önler, test edilebilirliği artırır.
+- **MediatR**: Uygulama içi iletişim ve veri akışı yönetimini kolaylaştırır.
+- **AutoMapper**: DTO (Data Transfer Object) ve entity nesneleri arasında otomatik dönüşüm sağlar.
 
-**AutoMapper** ile **DTO (Data Transfer Object)** ile entity nesneleri arasında otomatik dönüşüm sağlanarak kod basitliği artırılmıştır.
+### 🛠️ Teknolojiler ve Kütüphaneler
 
-**CRUD işlemleri**, kullanıcı dostu bir arayüz ile hızlı ve etkili bir şekilde gerçekleştirilmiştir.
+- **Entity Framework Core**: Güçlü veri erişim katmanı, migration özellikleri ile veritabanı yönetimi.
+- **Fluent Validation**: Gelen verilerin doğruluğunu sağlayarak uygulamanın güvenilirliğini artırır.
+- **Global Exception Handler**: Uygulama genelinde hata yönetimi yaparak kullanıcı deneyimini geliştirir.
 
-**Global Exception Handler** ile uygulama genelinde hata yönetimi yapılmış, kullanıcı deneyimi geliştirilmiştir.
+### 🔐 Güvenlik
 
-**Fluent Validation** ile gelen verilerin doğruluğu sağlanarak, uygulamanın güvenilirliği artırılmıştır.
+- **Authentication ve Authorization**: JWT (JSON Web Token) ile token tabanlı kimlik doğrulama sistemi.
+- **Refresh Token**: Kullanıcı oturumlarını yönetmek için refresh ve access token mekanizmaları entegre edilmiştir.
+- **Identity Yapısı**: Kullanıcı yönetimi için kolaylık sağlar.
 
-**Authentication ve Authorization** mekanizmaları kullanılarak, kullanıcı güvenliği üst seviyeye çıkarılmıştır. **JWT (JSON Web Token)** ile token tabanlı kimlik doğrulama sistemi geliştirilmiştir.
+### 🛠️ CRUD İşlemleri
 
-Kullanıcıların oturumlarını yönetmek için **refresh token** ve **access token** uygulamaları entegre edilmiştir.
+Kullanıcı dostu bir arayüz ile **Create**, **Read**, **Update** ve **Delete** işlemleri hızlı ve etkili bir şekilde gerçekleştirilir.
 
-**Identity** yapısı kullanılarak kullanıcı yönetimi kolaylaştırılmıştır.
+## 📊 Uygulamanın Avantajları
 
-Bu proje, modern yazılım geliştirme prensiplerini etkili bir şekilde uygulayarak, sağlam, güvenilir ve ölçeklenebilir bir Web API sunmaktadır. Bu sayede, hem akademik hem de profesyonel kariyerimde önemli bir katkı sağlamaktadır.
+- **Sürdürülebilirlik**: Onion Architecture ve katmanlı yapı ile uzun vadede sürdürülebilirlik.
+- **Performans**: CQRS ile veri yönetimi ve performans artışı.
+- **Test Edilebilirlik**: Repository ve Unit of Work desenleri ile test edilebilirlik artırılmıştır.
+- **Güvenlik**: JWT ve token mekanizmaları ile güçlü bir kimlik doğrulama sağlanmıştır.
