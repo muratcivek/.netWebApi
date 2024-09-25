@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B08E970-CD8F-46DC-A3D8-B9E7EAA67D12}|onion.Api\\onion.Api.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B08E970-CD8F-46DC-A3D8-B9E7EAA67D12}|onion.Api\\onion.Api.csproj|solutionrelative:onion.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\command\\revokeall\\revokeallcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\command\\revokeall\\revokeallcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\command\\revokeall\\revokeallcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\command\\revokeall\\revokeallcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\command\\revoke\\revokecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\command\\revoke\\revokecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\command\\revoke\\revokecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\command\\revoke\\revokecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\rules\\authrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\rules\\authrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\exceptions\\emailaddressshouldbevalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\exceptions\\emailaddressshouldbevalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\command\\revoke\\revokecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\command\\revoke\\revokecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|c:\\users\\ym\\desktop\\onionapicourse\\onionapicourse\\onion.application\\features\\auth\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABA468F-8D00-4788-BA21-E1B7BDF67416}|onion.Application\\onion.Application.csproj|solutionrelative:onion.application\\features\\auth\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevokeAllCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandRequest.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandRequest.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandRequest.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:24:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevokeAllCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandHandler.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandHandler.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandHandler.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Command\\RevokeAll\\RevokeAllCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:23:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "onion.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "onion.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:20:47.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailAddressShouldBeValidException.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Exceptions\\EmailAddressShouldBeValidException.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Exceptions\\EmailAddressShouldBeValidException.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Exceptions\\EmailAddressShouldBeValidException.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Exceptions\\EmailAddressShouldBeValidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:18:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthRules.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:16:07.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RevokeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandValidator.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandValidator.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:10:50.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RevokeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandHandler.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandHandler.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:10:44.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Command\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:09:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RevokeCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandRequest.cs",
+              "RelativeDocumentMoniker": "onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandRequest.cs",
+              "ToolTip": "C:\\Users\\YM\\Desktop\\onionApiCourse\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandRequest.cs",
+              "RelativeToolTip": "onion.Application\\Features\\Auth\\Command\\Revoke\\RevokeCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:09:34.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

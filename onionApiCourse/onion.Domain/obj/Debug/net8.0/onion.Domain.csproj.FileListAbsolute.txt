@@ -1,0 +1,12 @@
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\bin\Debug\net8.0\onion.Domain.deps.json
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\bin\Debug\net8.0\onion.Domain.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\bin\Debug\net8.0\onion.Domain.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.AssemblyInfoInputs.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.AssemblyInfo.cs
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\refint\onion.Domain.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\ref\onion.Domain.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Domain\obj\Debug\net8.0\onion.Domain.csproj.AssemblyReference.cache

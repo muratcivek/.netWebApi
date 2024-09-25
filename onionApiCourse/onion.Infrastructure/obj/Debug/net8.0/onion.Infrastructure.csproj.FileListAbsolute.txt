@@ -1,0 +1,17 @@
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Infrastructure.deps.json
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Infrastructure.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Infrastructure.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.AssemblyInfo.cs
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\refint\onion.Infrastructure.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\ref\onion.Infrastructure.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Application.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Domain.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Application.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\bin\Debug\net8.0\onion.Domain.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Infrastructure\obj\Debug\net8.0\onion.In.D5444AA6.Up2Date

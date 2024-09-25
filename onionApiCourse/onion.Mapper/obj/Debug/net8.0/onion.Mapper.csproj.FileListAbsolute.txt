@@ -1,0 +1,17 @@
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Mapper.deps.json
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Mapper.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Mapper.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Application.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Domain.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Application.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\bin\Debug\net8.0\onion.Domain.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.csproj.AssemblyReference.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.AssemblyInfoInputs.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.AssemblyInfo.cs
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Ma.DDD581A5.Up2Date
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\refint\onion.Mapper.dll
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\onion.Mapper.pdb
+C:\Users\YM\Desktop\onionApiCourse\onionApiCourse\onion.Mapper\obj\Debug\net8.0\ref\onion.Mapper.dll

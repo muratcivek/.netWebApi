@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\onionApiCourse",
+    "\\onionApiCourse\\onion.Application",
+    "\\onionApiCourse\\onion.Application\\Features",
+    "\\onionApiCourse\\onion.Application\\Features\\Auth",
+    "\\onionApiCourse\\onion.Application\\Features\\Auth\\Command",
+    "\\onionApiCourse\\onion.Application\\Features\\Auth\\Command\\RefreshToken",
+    "\\onionApiCourse\\onion.Mapper",
+    "\\onionApiCourse\\onion.Mapper\\AutoMapper",
+    "\\onionApiCourse\\onion.Persistance"
+  ],
+  "SelectedNode": "\\onionApiCourse\\onionApiCourse.sln",
+  "PreviewInSolutionExplorer": false
+}
